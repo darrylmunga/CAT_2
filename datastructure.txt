@@ -1,0 +1,16 @@
+PS E:\CAT_2> git add .
+PS E:\CAT_2> git commit -m "added file"
+[main b645054] added file
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 Q2.MD
+PS E:\CAT_2> git push -u origin main
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (2/2), 224 bytes | 224.00 KiB/s, done.
+Total 2 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/darrylmunga/CAT_2.git
+   2628c45..b645054  main -> main
+branch 'main' set up to track 'origin/main'.
+PS E:\CAT_2> 
